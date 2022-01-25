@@ -1,8 +1,13 @@
-### Hi there 👋
-### My name is Fernando Alarcon  👋
-### Front End Developer 💻 
-### Web Development Tutor on Coderhouse 💻 
-### From Argentina 
+<img src="https://i.ibb.co/9nyYqpv/fer-alarcon.gif" />
+
+# Hi there 👋
+_____
+# My name is Fernando Alarcon  👋
+ Front End Developer 💻 
+ <br>
+ Web Development Tutor on Coderhouse 💻 
+ <br>
+ From Argentina 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feralarcon1995&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 _____
@@ -12,10 +17,47 @@ _____
 
 _____
 
-### Some Projects:
-| Linkin Park Fan Web | ViajaYa  | TiendaBlu  |
-|---|---|---|
-| <a href="https://github.com/feralarcon1995/ProyectoFinalCoderHouse" target="_blank"> <img src="https://github.com/feralarcon1995/Portfolio/blob/master/src/assets/img/web1.png" width="400" height="200"/></a> |  <a href="https://github.com/feralarcon1995/ViajaYa" target="_blank"> <img src="https://github.com/feralarcon1995/Portfolio/blob/master/src/assets/img/web2.png" width="400" height="200"/></a> | <a href="https://github.com/feralarcon1995/TiendaBlu" target="_blank"> <img src="https://github.com/feralarcon1995/Portfolio/blob/master/src/assets/img/web3.png" width="400" height="200"/></a>  |
+# Some Projects:
+_____
+### Linkin Park Fan Web 
+That proyects is created with de stack :
+HTML
+<br>
+CSS
+<br>
+BOOTSTRAP
+<br>
+SASS
+<br>
+JAVASCRIPT
+<br>
+ <a href="https://github.com/feralarcon1995/ProyectoFinalCoderHouse" target="_blank"> <img src="https://github.com/feralarcon1995/Portfolio/blob/master/src/assets/img/web1.png" width="400" height="200"/></a> 
+
+
+### VIAJAYA
+That proyects is created with de stack :
+HTML
+<br>
+CSS
+<br>
+BOOTSTRAP
+<br>
+SASS
+<br>
+JAVASCRIPT
+<br>
+<a href="https://github.com/feralarcon1995/ViajaYa" target="_blank"> <img src="https://github.com/feralarcon1995/Portfolio/blob/master/src/assets/img/web2.png" width="400" height="200"/></a>
+
+
+### TIENDABLU
+That proyects is created with de stack :
+REACTJS
+<br>
+JAVASCRIPT
+<br>
+CSS
+<br>
+<a href="https://github.com/feralarcon1995/TiendaBlu" target="_blank"> <img src="https://github.com/feralarcon1995/Portfolio/blob/master/src/assets/img/web3.png" width="400" height="200"/></a> 
 
 
 _____
