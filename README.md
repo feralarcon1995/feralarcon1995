@@ -21,6 +21,7 @@ _____
 _____
 ### Linkin Park Fan Web 
 That proyects is created with de stack :
+<br>
 HTML
 <br>
 CSS
@@ -36,6 +37,7 @@ JAVASCRIPT
 
 ### VIAJAYA
 That proyects is created with de stack :
+<br>
 HTML
 <br>
 CSS
@@ -51,6 +53,7 @@ JAVASCRIPT
 
 ### TIENDABLU
 That proyects is created with de stack :
+<br>
 REACTJS
 <br>
 JAVASCRIPT
