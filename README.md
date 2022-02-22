@@ -21,44 +21,37 @@ _____
 _____
 ### Linkin Park Fan Web 
 That proyects is created with de stack :
-<br>
-HTML
-<br>
-CSS
-<br>
-BOOTSTRAP
-<br>
-SASS
-<br>
-JAVASCRIPT
-<br>
+<ul>
+<li>HTML</<li>
+ <li>CSS</<li>
+<li>SCSS</<li>
+ <li>BOOTSTRAP</<li>
+ <li>JAVASCRIPT</<li>
+</ul>
  <a href="https://github.com/feralarcon1995/ProyectoFinalCoderHouse" target="_blank"> <img src="https://github.com/feralarcon1995/Portfolio/blob/master/src/assets/img/web1.png" width="400" height="200"/></a> 
 
 
 ### VIAJAYA
 That proyects is created with de stack :
-<br>
-HTML
-<br>
-CSS
-<br>
-BOOTSTRAP
-<br>
-SASS
-<br>
-JAVASCRIPT
-<br>
+<ul>
+<li>HTML</<li>
+ <li>CSS</<li>
+<li>SCSS</<li>
+ <li>BOOTSTRAP</<li>
+ <li>JAVASCRIPT</<li>
+ <li>JQUERY</<li>
+  <li>API'S</<li>
+</ul>
 <a href="https://github.com/feralarcon1995/ViajaYa" target="_blank"> <img src="https://github.com/feralarcon1995/Portfolio/blob/master/src/assets/img/web2.png" width="400" height="200"/></a>
 
 
 ### TIENDABLU
 That proyects is created with de stack :
-<br>
-REACTJS
-<br>
-JAVASCRIPT
-<br>
-CSS
+<ul>
+<li>REACTJS</<li>
+ <li>CSS</<li>
+<li>FIREBASE</<li>
+</ul>
 <br>
 <a href="https://github.com/feralarcon1995/TiendaBlu" target="_blank"> <img src="https://github.com/feralarcon1995/Portfolio/blob/master/src/assets/img/web3.png" width="400" height="200"/></a> 
 
