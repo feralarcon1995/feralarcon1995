@@ -28,7 +28,7 @@ That proyects is created with de stack :
  <li>BOOTSTRAP</<li>
  <li>JAVASCRIPT</<li>
 </ul>
- <a href="https://github.com/feralarcon1995/ProyectoFinalCoderHouse" target="_blank"> <img src="https://github.com/feralarcon1995/Portfolio/blob/master/src/assets/img/web1.png" width="400" height="200"/></a> 
+ <a href="https://github.com/feralarcon1995/ProyectoFinalCoderHouse" target="_blank"> <img src="https://i.ibb.co/Pg3DX2b/lp.png" width="400" height="200"/></a> 
 
 
 ### VIAJAYA
@@ -42,7 +42,7 @@ That proyects is created with de stack :
  <li>JQUERY</<li>
   <li>API'S</<li>
 </ul>
-<a href="https://github.com/feralarcon1995/ViajaYa" target="_blank"> <img src="https://github.com/feralarcon1995/Portfolio/blob/master/src/assets/img/web2.png" width="400" height="200"/></a>
+<a href="https://github.com/feralarcon1995/ViajaYa" target="_blank"> <img src="https://i.postimg.cc/8cyJqVSW-/vy.png" width="400" height="200"/></a>
 
 
 ### TIENDABLU
@@ -53,7 +53,7 @@ That proyects is created with de stack :
 <li>FIREBASE</<li>
 </ul>
 <br>
-<a href="https://github.com/feralarcon1995/TiendaBlu" target="_blank"> <img src="https://github.com/feralarcon1995/Portfolio/blob/master/src/assets/img/web3.png" width="400" height="200"/></a> 
+<a href="https://github.com/feralarcon1995/TiendaBlu" target="_blank"> <img src="https://i.postimg.cc/wBht9Nz9/tb.png" width="400" height="200"/></a> 
 
 
 _____
