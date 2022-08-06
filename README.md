@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/9nyYqpv/fer-alarcon.gif" />
+<img src="https://i.ibb.co/N3zDVb9/bannerlinkedin.png" />
 
 # Hi there 👋
 
