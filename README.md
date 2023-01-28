@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Pentesting, scripting and Kali Linux**
 
-- 👨‍💻 All of my projects are available at [https://feralarcon.vercel.app/](https://feralarcon.vercel.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://feralarcon.vercel.app/)
 
 - 💬 Ask me about **react, css, sass and security**
 
