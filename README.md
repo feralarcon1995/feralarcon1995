@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Fernando Alarcon</h1>
 <h3 align="center">I am a frontend developer with a passion for cybersecurity.</h3>
 
-- 🔭 I’m currently working on [Coderhouse](https://www.coderhouse.com/)
+- 🔭 I’m currently working on [PATH](https://proactivetalenthub.com/) and teaching at [Coderhouse](https://www.coderhouse.com/)
 
 - 🌱 I’m currently learning **Pentesting, scripting and Kali Linux**
 
