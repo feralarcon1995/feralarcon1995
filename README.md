@@ -44,7 +44,7 @@
 ---
 
 <h3 align="left">If you like my content, support me with a cup of coffee:</h3>
-<p><a href="https://ko-fi.com/https://cafecito.app/medicenferpy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://cafecito.app/medicenferpy" /></a></p><br><br>
+<p><a href="https://cafecito.app/medicenferpy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://cafecito.app/medicenferpy" /></a></p><br><br>
 
 ---
 
