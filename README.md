@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/N3zDVb9/bannerlinkedin.png"  height="150px" width="100%"/>
+<img src="https://i.ibb.co/jJg4qyG/banner-profile.png" alt="banner" width="100%" height="auto"  align="center"/>
 
 <h1 align="center">Hi 👋, I'm Fernando Alarcon</h1>
 <h3 align="center">I am a frontend developer with a passion for cybersecurity.</h3>
