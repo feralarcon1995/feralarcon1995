@@ -1,7 +1,7 @@
 
 ###
 <div align="center">
-  <img height="300" src="https://i.postimg.cc/fRFB5cpb/banner-profile.png"  />
+  <img height="200" src="https://i.postimg.cc/fRFB5cpb/banner-profile.png"  />
 </div>
 
 ###
